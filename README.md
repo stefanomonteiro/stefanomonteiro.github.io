@@ -11,7 +11,7 @@ Get to know more about me.
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 [Visit my Website](link)
 
 
-## Frogger
+## Frogger - The Game
 
 Projected created as part of Udacity's FrontEnd NanoDegree. [More info](https://github.com/stefanomonteiro/Frogger-Arcade-Game)
 
