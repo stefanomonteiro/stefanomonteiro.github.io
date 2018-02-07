@@ -1,7 +1,5 @@
 # Welcome to Stefano Monteiro GitHub Page
 
-___
-
 ### Here is some of my favorites projects, enjoy! ###
 
 ## Personal Website
