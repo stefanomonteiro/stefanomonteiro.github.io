@@ -62,3 +62,11 @@ Projected created as part of Udacity's FrontEnd NanoDegree.
 ![https://stefanomonteiro.github.io/Frogger-Arcade-Game/](frogger.gif)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ℹ️ [See Code](https://github.com/stefanomonteiro/Frogger-Arcade-Game){:target="\_blank"} &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🎮 [Play Game](https://stefanomonteiro.github.io/Frogger-Arcade-Game/){:target="\_blank"}
+
+## Miscelaneous Fun Projects
+
+* ### [Spinners](https://stefanomonteiro.github.io/Spinners/){:target="\_blank"}
+
+![Spinners Gif](spinners.gif)
+
+ℹ️ [See Code](https://github.com/stefanomonteiro/Spinners){:target="\_blank"} | ▶️ [See Live](https://stefanomonteiro.github.io/Spinners/){:target="\_blank"}
