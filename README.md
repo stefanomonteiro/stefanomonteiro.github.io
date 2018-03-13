@@ -1,4 +1,4 @@
-#Stefano Monteiro | Front-End Web Developer
+# Stefano Monteiro | Front-End Web Developer
 
 ## Personal Website
 
