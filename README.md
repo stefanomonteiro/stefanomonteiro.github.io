@@ -8,17 +8,9 @@ Get to know more about me.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ℹ️ [See Code](https://github.com/stefanomonteiro/Personal-Website) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 💻 [Visit Website](https://stefanomonteiro.github.io/Personal-Website/){:target="\_blank"} - Still unfinished.
 
-## Frogger - The Game
+## WordPress Design & Development
 
-Projected created as part of Udacity's FrontEnd NanoDegree. [More info](https://github.com/stefanomonteiro/Frogger-Arcade-Game){:target="\_blank"}
-
-![https://stefanomonteiro.github.io/Frogger-Arcade-Game/](frogger.gif)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ℹ️ [See Code](https://github.com/stefanomonteiro/Frogger-Arcade-Game) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🎮 [Play Game](https://stefanomonteiro.github.io/Frogger-Arcade-Game/)
-
-## WordPress Themes Design & Development
-
-* [Divorce Nation](https://divorcenation.net/){:target="\_blank"}
+* ### [Divorce Nation](https://divorcenation.net/){:target="\_blank"}
 
   * Completely redesigned the Wordpress Theme.
   * Created a static HTML/CSS template from scratch and converted it in dynamic Wordpress page template.
@@ -31,7 +23,7 @@ Projected created as part of Udacity's FrontEnd NanoDegree. [More info](https://
   ![Divorce Nation WP](divorce-nation2.jpg)
   ![Divorce Nation WP](divorce-nation3.jpg)
 
-- [Tamarindo Active](http://tamarindoactive.com/){:target="\_blank"}
+- ### [Tamarindo Active](http://tamarindoactive.com/){:target="\_blank"}
 
   * Installed and customized a Wordpress theme according to client requirements.
   * Design and style using Visual Composer and Revolution Slider.
@@ -43,7 +35,7 @@ Projected created as part of Udacity's FrontEnd NanoDegree. [More info](https://
 &nbsp;
 &nbsp;
 
-* [Rosie's Investments](http://www.rosiesinvestments.com/){:target="\_blank"}
+* ### [Rosie's Investments](http://www.rosiesinvestments.com/){:target="\_blank"}
 
   * Installed and customized a Wordpress using Visual Composer.
   * Listen to client's business philosophy and specification to tweak the website accordingly.
@@ -51,10 +43,22 @@ Projected created as part of Udacity's FrontEnd NanoDegree. [More info](https://
 
 ![Rosie's Investments WP](rosie1.png "Rosie HomePage") ![Rosie's Investments WP](rosie2.png "Rosie HomePage")
 
-## Sample Projects
+## Educational Projects
 
-* [Natours](https://stefanomonteiro.github.io/Natours/){:target="\_blank"}
+* ### [Natours](https://stefanomonteiro.github.io/Natours/){:target="\_blank"}
 
 As part of a Advanced CSS and Sass course this project has the latests techniques in websites’ styling, animation and mobile devices responsiveness.
 
 ![Natours](natours.gif "Natours Project") ![Natours](natours2.gif "Natours Project") ![Natours](natours3.gif "Natours Project") ![Natours](natours4.gif "Natours Project") ![Natours](natours5.gif "Natours Project") ![Natours](natours6.gif "Natours Project")
+
+* ### [Frogger - The Game](https://github.com/stefanomonteiro/Frogger-Arcade-Game){:target="\_blank"}
+
+Projected created as part of Udacity's FrontEnd NanoDegree.
+
+    -   HTML5 Canvas
+    -   Javascript OOP
+    -   CSS
+
+![https://stefanomonteiro.github.io/Frogger-Arcade-Game/](frogger.gif)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ℹ️ [See Code](https://github.com/stefanomonteiro/Frogger-Arcade-Game){:target="\_blank"} &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🎮 [Play Game](https://stefanomonteiro.github.io/Frogger-Arcade-Game/){:target="\_blank"}
