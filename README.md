@@ -4,11 +4,11 @@
 
 Designed and deveoped projects without the use of any CMS or templates.
 
-- ### Personal Website
+- ### Personal Website - 2018
 
 Get to know more about me.
 
-![Stefano Monteiro Website](StefanoMonteiro.png "Visit my Website") - 2018
+![Stefano Monteiro Website](StefanoMonteiro.png "Visit my Website")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ℹ️ [See Code](https://github.com/stefanomonteiro/Personal-Website) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 💻 [Visit Website](https://stefanomonteiro.github.io/Personal-Website/){:target="\_blank"} - Still unfinished.
 
