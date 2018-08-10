@@ -1,57 +1,85 @@
 # Stefano Monteiro | Front-End Web Developer
 
-## Personal Website
+## Projects from scratch
+
+Designed and deveoped projects without the use of any CMS or templates.
+
+- ### Personal Website
 
 Get to know more about me.
 
-![Stefano Monteiro Website](StefanoMonteiro.png "Visit my Website")
+![Stefano Monteiro Website](StefanoMonteiro.png "Visit my Website") - 2018
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ℹ️ [See Code](https://github.com/stefanomonteiro/Personal-Website) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 💻 [Visit Website](https://stefanomonteiro.github.io/Personal-Website/){:target="\_blank"} - Still unfinished.
 
+- ### [Amore Paraiso](www.amoreparaiso.com){:target="\_blank} - 2018
+
+  - Fully Optimized. Scores 99 on PageSpeed Insights and First Paint at ~700ms.
+  - Images Optimized using Cloudinary CDN and the blur technique;
+  - Used Advanced JavaScript to create a testimonial slider, fetch images from Instagram
+    API, to activate sticky navigation bar and more;
+  - Created a well styled Contact Form using CSS and PHP;
+  - Applied Schema, Twitter Cards and Facebook Open Graphs markup;
+  - Managed the development workflow with NPM and Webpack;
+  - Languages and Skills used: HTML, CSS, Sass, JavaScript, jQuery, PHP, Webpack, NPM, Instagram API, Cloudinary;
+
+![Amore Paraiso](amore_paraiso-0.png)
+
 ## WordPress Design & Development
 
-* ### [Divorce Nation](https://divorcenation.net/){:target="\_blank"}
+- ### [Morena Beachwear](https://morenabeachwear.com/){:target="\_blank"} - 2018
 
-  * Completely redesigned the Wordpress Theme.
-  * Created a static HTML/CSS template from scratch and converted it in dynamic Wordpress page template.
-  * Used Advanced Custom Fields to create a better UX for website owner when managing content in Wordpress Admin.
-  * Added a new Custom Post Type.
-  * Included front-end forms so subscribers can upload new blog posts as well as new custom post type.
-  * Languages and Skills used: HTML, CSS, PHP, WP Functions, WP Template Tags, WP Custom Post Type, Advanced Custom Fields
+  - Completely redesigned the Wordpress Theme. Created a static HTML/CSS template from scratch and converted it in a dynamic Wordpress page template;
+  - Used Advanced Custom Fields to create a better UX for website owner when managing content in Wordpress Admin;
+  - Included front-end forms so subscribers can upload new blog posts as well as new custom post type;
+  - Languages and Skills used: HTML, CSS, PHP, WP Custom Post Type, Advanced Custom Fields;
+
+  ![Divorce Nation WP](morena_beachwear1.png)
+  ![Divorce Nation WP](morena_beachwear0.png)
+
+* ### [Divorce Nation](https://divorcenation.net/){:target="\_blank"} - 2017
+
+  - Completely redesigned the Wordpress Theme. Created a static HTML/CSS template from scratch and converted it in a dynamic Wordpress page template;
+  - Used Advanced Custom Fields to create a better UX for website owner when managing content in Wordpress Admin;
+  - Included front-end forms so subscribers can upload new blog posts as well as new custom post type;
+  - Languages and Skills used: HTML, CSS, PHP, WP Custom Post Type, Advanced Custom Fields;
 
   ![Divorce Nation WP](divorce-nation1.jpg)
   ![Divorce Nation WP](divorce-nation2.jpg)
   ![Divorce Nation WP](divorce-nation3.jpg)
 
-- ### [Tamarindo Active](http://tamarindoactive.com/){:target="\_blank"}
+- ### [Tamarindo Active](http://tamarindoactive.com/){:target="\_blank"} - 2017
 
-  * Installed and customized a Wordpress theme according to client requirements.
-  * Design and style using Visual Composer and Revolution Slider.
-  * Adapted the theme accordingly to its business and industry.
-  * Languages used: PHP, CSS
+  - Installed and customized a Wordpress theme according to client requirements;
+  - Design and style using Visual Composer and Revolution Slider.
+  - Created a child theme to tweak the template as needed;
+  - Languages and Skills used: PHP, CSS, Visual Composer, Revolution Slider,
+    Photoshop;
 
 ![Tamarindo Active WP](TamarindoActive.gif "Tamarindo Active Slider") ![Tamarindo Active WP](TamarindoActive_2.gif "Tamarindo Active Home")
 
 &nbsp;
 &nbsp;
 
-* ### [Rosie's Investments](http://www.rosiesinvestments.com/){:target="\_blank"}
+- ### [Rosie's Investments](http://www.rosiesinvestments.com/){:target="\_blank"} - 2016
 
-  * Installed and customized a Wordpress using Visual Composer.
-  * Listen to client's business philosophy and specification to tweak the website accordingly.
-  * Languages used: PHP, CSS
+  - Installed and customized a Wordpress theme according to client requirements;
+  - Designed and styled the pages using Visual Composer and Revolution Slider;
+  - Created a child theme to tweak the template as needed;
+  - Languages and Skills used: PHP, CSS, Visual Composer, Revolution Slider,
+    Photoshop;
 
 ![Rosie's Investments WP](rosie1.png "Rosie HomePage") ![Rosie's Investments WP](rosie2.png "Rosie HomePage")
 
 ## Educational Projects
 
-* ### [Natours](https://stefanomonteiro.github.io/Natours/){:target="\_blank"}
+- ### [Natours](https://stefanomonteiro.github.io/Natours/){:target="\_blank"}
 
 As part of a Advanced CSS and Sass course this project has the latests techniques in websites’ styling, animation and mobile devices responsiveness.
 
 ![Natours](natours.gif "Natours Project") ![Natours](natours2.gif "Natours Project") ![Natours](natours3.gif "Natours Project") ![Natours](natours4.gif "Natours Project") ![Natours](natours5.gif "Natours Project") ![Natours](natours6.gif "Natours Project")
 
-* ### [Frogger - The Game](https://github.com/stefanomonteiro/Frogger-Arcade-Game){:target="\_blank"}
+- ### [Frogger - The Game](https://github.com/stefanomonteiro/Frogger-Arcade-Game){:target="\_blank"}
 
 Projected created as part of Udacity's FrontEnd NanoDegree.
 
@@ -65,13 +93,13 @@ Projected created as part of Udacity's FrontEnd NanoDegree.
 
 ## Miscelaneous Fun Projects
 
-* ### [Spinners](https://stefanomonteiro.github.io/Spinners/){:target="\_blank"}
+- ### [Spinners](https://stefanomonteiro.github.io/Spinners/){:target="\_blank"}
 
 ![Spinners Gif](spinners.gif)
 
 ℹ️ [See Code](https://github.com/stefanomonteiro/Spinners){:target="\_blank"} | ▶️ [See Live](https://stefanomonteiro.github.io/Spinners/){:target="\_blank"}
 
-* ### [Drum Kit](https://stefanomonteiro.github.io/drumkit-game/){:target="\_blank"}
+- ### [Drum Kit](https://stefanomonteiro.github.io/drumkit-game/){:target="\_blank"}
 
 I Made a game out of [Javascript 30](https://youtu.be/VuN8qwZoego?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH){:target="\_blank"} first video tutorial by Wes Bos.
 
