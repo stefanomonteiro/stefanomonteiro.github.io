@@ -23,7 +23,10 @@ Get to know more about me.
   - Managed the development workflow with NPM and Webpack;
   - Languages and Skills used: HTML, CSS, Sass, JavaScript, jQuery, PHP, Webpack, NPM, Instagram API, Cloudinary;
 
-![Amore Paraiso](amore_paraiso-0.png)
+  ![Amore Paraiso](amore_paraiso-4.png)
+  ![Amore Paraiso](amore_paraiso-3.png)
+  ![Amore Paraiso](amore_paraiso-1.png)
+  ![Amore Paraiso](amore_paraiso-2.png)
 
 ## WordPress Design & Development
 
