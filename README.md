@@ -12,7 +12,7 @@ Get to know more about me.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ℹ️ [See Code](https://github.com/stefanomonteiro/Personal-Website) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 💻 [Visit Website](https://stefanomonteiro.github.io/Personal-Website/){:target="\_blank"} - Still unfinished.
 
-- ### [Amore Paraiso](www.amoreparaiso.com){:target="\_blank} - 2018
+- ### [Amore Paraiso](https://www.amoreparaiso.com/){:target="\_blank} - 2018
 
   - Fully Optimized. Scores 99 on PageSpeed Insights and First Paint at ~700ms.
   - Images Optimized using Cloudinary CDN and the blur technique;
